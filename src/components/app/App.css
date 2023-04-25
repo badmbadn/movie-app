@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  
+}
+
+ul,ol,li {
+  list-style: none;
+}
+
+.App {
+  max-width: 1010px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 86px;
+  font-weight:400;
+}

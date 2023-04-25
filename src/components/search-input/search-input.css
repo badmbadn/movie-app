@@ -1,0 +1,10 @@
+.form-input {
+  max-width: 945px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 34px;
+}
+.search-input {
+  border: 1px solid #d9d9d9;
+  border-radius: 0px;
+}
